@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kurays015
 - 👀 I’m interested in programming/coding
 - 🌱 I’m currently learning frontend, specifically javascript now.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 kurays015/kurays015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
