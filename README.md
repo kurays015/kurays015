@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @kurays015
-- 👀 I’m interested in programming/coding
-- 🌱 I’m currently learning frontend, specifically javascript now.
+<h1>Hello!</h1>
 
 
 <!---
