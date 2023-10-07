@@ -19,4 +19,10 @@ I love learning new things and am continually inspired to explore and learn more
 
 <br />
 
-#
+### Socials
+
+<div id="badges">
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
