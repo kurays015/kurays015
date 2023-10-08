@@ -3,7 +3,6 @@ Hi there! My name is Christ and I'm from the Philippines.
 I am a self-taught, passionate, and aspiring Frontend Developer who enjoys building things and sharing them on the web.
 
 I love learning new things and am continually inspired to explore and learn more within the vast and ever-evolving world of technology.
- 
 <br>
 
 ### Tech Stack
@@ -18,7 +17,6 @@ I love learning new things and am continually inspired to explore and learn more
 ![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 <br />
 
 ### Socials
