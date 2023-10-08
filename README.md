@@ -18,7 +18,6 @@ I love learning new things and am continually inspired to explore and learn more
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <br />
-
 ### Socials
 
 <div id="badges">
