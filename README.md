@@ -1,5 +1,4 @@
-### Hi there! 
-My name is Christ and I'm from the Philippines.
+### Hi there! My name is Christ and I'm from the Philippines.
 
 I am a self-taught, passionate, and aspiring Frontend Developer who enjoys building things and sharing them on the web.
 
