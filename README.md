@@ -23,7 +23,6 @@ I love learning new things and am continually inspired to explore and learn more
 ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 <br />
-
 ### Socials
 
 <div id="badges">
