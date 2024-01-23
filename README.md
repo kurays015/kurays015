@@ -1,8 +1,8 @@
 ### Hi there! My name is Christ and I'm from the Philippines
 
-I am a self-taught, passionate, and aspiring Frontend Developer who enjoys building things and sharing them on the web
+I am a self-taught, passionate, and aspiring Frontend Developer who enjoy building things.
 
-I love learning new things and am continually inspired to explore and learn more within the vast and ever-evolving world of technology
+I love to learn new things and am continually inspired to explore and learn more within the vast and ever-evolving world of technology
 <br>
 
 ### Tech Stack
