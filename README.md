@@ -25,7 +25,7 @@ I love to learn new things and am continually inspired to explore and learn more
 ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 <br />
 
-I'm currently learning TypeScript, Zod, redux, react-hook-form, prisma.
+I'm currently learning TypeScript, Zod, redux, zustand, react-hook-form and prisma.
 
 ### Socials
 
