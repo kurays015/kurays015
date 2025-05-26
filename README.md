@@ -1,6 +1,6 @@
 ### Hi there! My name is Christ and I'm from the Philippines
 
-I am a self-taught, passionate, and aspiring Frontend Developer who enjoy building things.
+I am a self-taught, passionate, and dedicated Frontend Developer who enjoy building things.
 
 I love to learn new things and am continually inspired to explore and learn more within the vast and ever-evolving world of technology
 <br>
@@ -25,7 +25,7 @@ I love to learn new things and am continually inspired to explore and learn more
 ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 <br />
 
-I'm currently learning Web3, Solidity, PHP, Docker, and Laravel. One at a time.
+I'm currently learning Web3, Solidity, PHP, Laravel, and Docker. One at a time.
 
 ### Socials
 
