@@ -25,7 +25,7 @@ I love to learn new things and am continually inspired to explore and learn more
 ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 <br />
 
-I'm currently learning web3, PHP, Docker, and Laravel.
+I'm currently learning Web3, Solidity, PHP, Docker, and Laravel. One at a time.
 
 ### Socials
 
